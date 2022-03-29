@@ -3,7 +3,7 @@ Earth's weather: temperature and humidity sensor with a website presenting the r
 The website shows the current and previous temperature, humidity and insolation. The result is on the chart.<br><br>
 Mars' weather: by using NASA's data, the website shows the weather on Mars as well.<br><br>
 
-programming languages and technology: 
+programming languages and technologies: 
 - C
 - Python3 
 - Django
